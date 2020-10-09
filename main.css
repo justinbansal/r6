@@ -1,0 +1,22 @@
+.player__banner {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border: 1px solid grey;
+  border-radius: 5px;
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.player__circle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  padding: 10px;
+  border: 2px solid navy;
+}
